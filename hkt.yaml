@@ -157,4 +157,4 @@ dependencies:
     - widgetsnbextension==4.0.8
     - xgboost==1.7.6
     - zipp==3.16.2
-prefix: /home/as12088/anaconda3/envs/hkt
+
