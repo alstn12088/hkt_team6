@@ -11,8 +11,8 @@ To use this project, you'll need to follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/alstn12088/hkt_team6.git
+   cd hkt_team6
 
 2. **Create and activate conda environment:**
    ```sh
