@@ -18,9 +18,9 @@ To use this project, you'll need to follow these steps:
    ```sh
    conda create -n hkt python=3.9
    conda activate hkt
-3. **Update conda enviroment using yml file**
+3. **Update conda enviroment using yaml file**
    ```sh
-   conda env update --file hkt.yml
+   conda env update --file hkt.yaml
 4. **Register a new conda env into jupyter notebook**
    ```sh
    python -m ipykernel install --user --name hkt --display-name hkt
