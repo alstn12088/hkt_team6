@@ -21,6 +21,10 @@ To use this project, you'll need to follow these steps:
 3. **Update conda enviroment using yml file**
    ```sh
    conda env update --file hkt.yml
+4. **Register a new conda env into jupyter notebook**
+   ```sh
+   python -m ipykernel install --user --name hkt --display-name hkt
+
 ## Run the code
 
 Open jupyter notebook with hkt kernel and run inverse_design.ipynb
